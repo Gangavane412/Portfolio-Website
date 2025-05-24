@@ -1,12 +1,93 @@
-# React + Vite
+# 💼 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website! This site showcases my projects, experience, skills, and contact details. It is built using modern web technologies with a focus on responsiveness and clean design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🎨 Interactive and modern UI
+- 🧑‍💻 Project showcase with live links
+- 🛠️ Experience section with timeline design
+- 📞 Contact form with styled inputs and icons
+- ⚙️ Fully responsive layout
+- 🌙 Dark-themed aesthetic with black, cyan, and hotpink accents
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React.js** (Frontend framework)
+- **HTML5** & **CSS3**
+- **Bootstrap 5**
+- **Font Awesome** (Icons)
+- **Netlify** (Deployment)
+
+---
+
+## 📁 Folder Structure
+
+portfolio/
+├── public/
+│ └── index.html
+├── src/
+│ ├── assets/
+│ │ └── css/style.css
+│ ├── components/
+│ │ ├── Project.js
+│ │ ├── Experience.js
+│ │ └── Contact.js
+│ ├── App.js
+│ └── index.js
+└── README.md
+
+yaml
+Copy
+Edit
+
+---
+
+## 🚧 How to Run Locally
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/yourusername/portfolio.git
+Navigate into the folder
+
+bash
+Copy
+Edit
+cd portfolio
+Install dependencies
+
+bash
+Copy
+Edit
+npm install
+Start the development server
+
+bash
+Copy
+Edit
+npm start
+🌐 Live Demo
+🔗 Visit My Portfolio
+
+📬 Contact
+If you'd like to collaborate or have any questions, feel free to connect:
+
+📧 Email: yourname@example.com
+
+💼 LinkedIn: YourProfile
+
+📄 License
+This project is licensed under the MIT License - feel free to use and customize!
+
+yaml
+Copy
+Edit
+
+---
+
+Let me know if you'd like it customized with **your actual links, name, or profile image**!
